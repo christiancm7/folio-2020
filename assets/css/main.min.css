@@ -9912,7 +9912,7 @@ footer {
   .hero-button-float.floating .btn.btn-primary i,
   .hero-button-float.floating .btn.btn-white i {
     font-size: 22px;
-    margin-left: 0.15rem;
+    margin-left: 0.2rem;
   }
 }
 @media (max-width: 768px) {
